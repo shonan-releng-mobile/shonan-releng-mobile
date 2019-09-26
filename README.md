@@ -14,7 +14,7 @@ The purpose of this Shonan meeting is to bring together leading researchers and 
 
 A tangible outcome of the Shonan meeting will be a manuscript that describes the grand challenges and our roadmap for future research. For example, a foreseeable grand challenge is how software organizations can achieve crowd-based deployment strategies that have become so popular for web applications (e.g., canary and blue-green deployment) in a mobile setting. The produced manuscript will be submitted as a vision paper to a conference or journal.
 
-##References
+### References
 [1] B. Adams and S. McIntosh. “Modern Release Engineering in a Nutshell: Why Researchers should Care.” In Proceedings of the 2016 IEEE International Conference on Software Analysis, Evolution, and Reengineering, Future of Software Engineering track, pp. 78–90.
 
 [2] A. Pappas. “Developer economics: App market forecasts 2013-2016.” Online:  https://is.gd/PMqft8, Last accessed Jun 2018.
