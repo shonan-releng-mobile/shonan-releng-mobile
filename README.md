@@ -20,3 +20,8 @@ A tangible outcome of the Shonan meeting will be a manuscript that describes the
 [2] A. Pappas. “Developer economics: App market forecasts 2013-2016.” Online:  https://is.gd/PMqft8, Last accessed Jun 2018.
 
 [3] S. Cheney and E. Thompson. “The 2017-2022 App Economy Forecast: 6 Billion Devices, $157 Billion in Spend & More.” Online: https://is.gd/61uIoy, Last accessed Jun 2018.
+
+## Organizers
+- Shane McIntosh (McGill University, Canada)
+- Yasutaka Kamei (Kyushu University, Japan)
+- Meiyappan Nagappan (University of Waterloo, Canada)
