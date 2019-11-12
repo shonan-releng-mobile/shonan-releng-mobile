@@ -52,7 +52,6 @@ A tangible outcome of the Shonan meeting will be a manuscript that describes the
 - Fabio Palomba (University of Zurich, Switzerland)
 - Luca Pascarella (Delft University of Technology, Netherlands)
 - Sebastian Proksch (University of Zurich, Switzerland)
-- Guenther Ruhe (University of Calgary, Canada)
 - Yuan Tian (Queen's University, Canada)
 - Carmine Vassallo (University of Zurich, Switzerland)
 - Takuya Watanabe (NTT Secure Platform Laboratories/Waseda University, Japan)
