@@ -1,4 +1,4 @@
-# shonan-releng-mobile
+# Release Engineering for Mobile Apps
 ## Meeting overview 
 Release engineering is the process that ships code changes from a developer’s workspace to the end user [1]. It encompasses tools and technologies to accomplish continuous integration, deployment, delivery, and experimentation, such as build specifications, infrastructure-as-code, containerization, and many more.
 
