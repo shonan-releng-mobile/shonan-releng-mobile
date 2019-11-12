@@ -26,7 +26,7 @@ A tangible outcome of the Shonan meeting will be a manuscript that describes the
 | Time   | Dec 8  | Dec 9  | Dec 10 | Dec 11 | Dec 12 |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | AM     | | <ul><li>Workshop overview</li><li>Participant introductions</li><li>Plan break-out groups to formulate grand challenges</li></ul> | <ul><li>Discuss outcomes of break out groups on grand challenges</li><li>Plan break out groups for solution roadmaps</li></ul> | <ul><li>Discuss outcomes of break out groups on grand challenges</li></ul> | <ul><li>Finalize roadmap</li><li>Firm up future collaboration plans</li></ul> |
-| PM     | **Reception** | <ul><li>Break-out groups to identify concrete challenges</li></ul> | <ul><li>Break-out groups to structure solution roadmaps</li></ul> | **Excursion** | **Checkout** |
+| PM     | **Arrival and Reception** | <ul><li>Break-out groups to identify concrete challenges</li></ul> | <ul><li>Break-out groups to structure solution roadmaps</li></ul> | **Excursion** | **Checkout** |
 
 ## Organizers
 - Shane McIntosh (McGill University, Canada)
