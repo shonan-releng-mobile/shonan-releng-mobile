@@ -29,9 +29,9 @@ A tangible outcome of the Shonan meeting will be a manuscript that describes the
 | PM     | **Arrival and Reception** | <ul><li>Break-out groups to identify concrete challenges</li></ul> | <ul><li>Break-out groups to structure solution roadmaps</li></ul> | **Excursion** | **Checkout** |
 
 ## Organizers
-- Shane McIntosh (McGill University, Canada)
-- Yasutaka Kamei (Kyushu University, Japan)
-- Meiyappan Nagappan (University of Waterloo, Canada)
+- [Shane McIntosh](http://rebels.ece.mcgill.ca/) (McGill University, Canada)
+- [Yasutaka Kamei](https://posl.ait.kyushu-u.ac.jp/~kamei/) (Kyushu University, Japan)
+- [Meiyappan Nagappan](https://cs.uwaterloo.ca/~m2nagapp/) (University of Waterloo, Canada)
 
 ## Participants
 - Afnan Al-Subaihin (King Saud University, Saudi Arabia)
