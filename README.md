@@ -42,7 +42,7 @@ A tangible outcome of the Shonan meeting will be a manuscript that describes the
 - Daniel M. German (University of Victoria, Canada)
 - Michael W. Godfrey (University of Waterloo, Canada)
 - Alessandra Gorla (IMDEA Software Institute, Spain)
-- Julian Harty (Commercetest Limited/Open University, UK)
+- [Julian Harty](https://github.com/julianharty) (Commercetest Limited/Open University, UK)
 - Toshiki Hirao (Nara Institute of Science and Technology, Japan)
 - Masanari Kondo (Kyoto Institute of Technology, Japan)
 - Raula Gaikovina Kula (NAIST, Japan)
