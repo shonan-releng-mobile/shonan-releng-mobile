@@ -23,10 +23,25 @@ A tangible outcome of the Shonan meeting will be a manuscript that describes the
 
 ## Tentative Schedule
 
-| Time   | Dec 8  | Dec 9  | Dec 10 | Dec 11 | Dec 12 |
-| ------ | ------ | ------ | ------ | ------ | ------ |
-| AM     | | <ul><li>Workshop overview</li><li>Participant introductions</li><li>Plan break-out groups to formulate grand challenges</li></ul> | <ul><li>Discuss outcomes of break out groups on grand challenges</li><li>Plan break out groups for solution roadmaps</li></ul> | <ul><li>Discuss outcomes of break out groups on grand challenges</li></ul> | <ul><li>Finalize roadmap</li><li>Firm up future collaboration plans</li></ul> |
-| PM     | **Arrival and Reception** | <ul><li>Break-out groups to identify concrete challenges</li></ul> | <ul><li>Break-out groups to structure solution roadmaps</li></ul> | **Excursion** | **Checkout** |
+| Start | End   | Dec 8  | Dec 9  | Dec 10 | Dec 11 | Dec 12 |
+| ----- | ----- | ------ | ------ | ------ | ------ |
+| 9:00  | 10:30 | | <ol><li>Workshop overview</li><li>Participant introductions (part 1)</li></ol> | <ol><li>Plan breakout 2</li><li>Breakout 2</li></ol> | <ol><li>Plan breakout 4</li><li>Breakout 4</li></ol> | <ol><li>Plan breakout 5</li><li>Breakout 5</li></ul> |
+| 10:30 | 11:00 | |  Break |  Break | Break | Break |
+| 11:00 | 12:00 | | <ol><li>Participant introductions (part 2)</li><li>Planning for breakout 1</li></ol> | <ol><li>Report on breakout 2</li><li>Planning breakout 3</li></ol> | <ol><li>Report on breakout 4</li><li>Excursion details</li></ol> | <ol><li>Finalize roadmap</li><li>Firm up future plans</li><li>Meeting closing</li></ol> |
+| 12:00 | 13:30 | | Lunch | Lunch | Lunch | Lunch |
+| 13:30 | 15:00 | | Breakout 1 | Breakout 3 | Excursion | Departure |
+| 15:00 | 15:30 | | Break | Break | Break | Break |
+| 15:30 | 17:00 | | Report on breakout 1 | Report on breakout 3 | Excursion | Departure |
+| 17:00 | 18:00 | | Free time | Free time | Excursion | Departure |
+| 18:00 | 19:00 | | Dinner | Dinner | Dinner | Dinner |
+| 19:00 | 19:30 | Reception | Dinner | Dinner | Dinner | Dinner |
+| 19:30 | 21:00 | Reception | | | | |
+
+* Breakout 1: Challenges 1
+* Breakout 2: Challenges 2
+* Breakout 3: Solutions 1
+* Breakout 4: Solutions 2
+* Breakout 5: Roadmap
 
 ## Organizers
 - [Shane McIntosh](http://rebels.ece.mcgill.ca/) (McGill University, Canada)
