@@ -17,9 +17,9 @@ A tangible outcome of the Shonan meeting will be a manuscript that describes the
 ### References
 [1] B. Adams and S. McIntosh. “Modern Release Engineering in a Nutshell: Why Researchers should Care.” In Proceedings of the 2016 IEEE International Conference on Software Analysis, Evolution, and Reengineering, Future of Software Engineering track, pp. 78–90.
 
-[2] A. Pappas. “Developer economics: App market forecasts 2013-2016.” Online:  https://is.gd/PMqft8, Last accessed Jun 2018.
+[2] A. Pappas. “Developer economics: App market forecasts 2013-2016.” Online:  https://is.gd/OVPgze, Last accessed Dec 2019.
 
-[3] S. Cheney and E. Thompson. “The 2017-2022 App Economy Forecast: 6 Billion Devices, $157 Billion in Spend & More.” Online: https://is.gd/61uIoy, Last accessed Jun 2018.
+[3] S. Cheney and E. Thompson. “The 2017-2022 App Economy Forecast: 6 Billion Devices, $157 Billion in Spend & More.” Online: https://is.gd/61uIoy, Last accessed Dec 2019.
 
 ## Tentative Schedule
 
