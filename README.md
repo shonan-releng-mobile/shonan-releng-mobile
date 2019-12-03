@@ -30,11 +30,11 @@ A tangible outcome of the Shonan meeting will be a manuscript that describes the
 | 11:00 | 12:00 | | <ol><li>Participant introductions (part 2)</li><li>Planning for breakout 1</li></ol> | <ol><li>Report on breakout 2</li><li>Planning breakout 3</li></ol> | <ol><li>Report on breakout 4</li><li>Excursion details</li></ol> | <ol><li>Finalize roadmap</li><li>Firm up future plans</li><li>Meeting closing</li></ol> |
 | 12:00 | 13:30 | | Lunch | Lunch | Lunch | Lunch |
 | 13:30 | 15:00 | | Breakout 1 | Breakout 3 | Excursion | Departure |
-| 15:00 | 15:30 | | Break | Break | Break | Break |
-| 15:30 | 17:00 | | Report on breakout 1 | Report on breakout 3 | Excursion | Departure |
-| 17:00 | 18:00 | | Free time | Free time | Excursion | Departure |
-| 18:00 | 19:00 | | Dinner | Dinner | Dinner | Dinner |
-| 19:00 | 19:30 | Reception | Dinner | Dinner | Dinner | Dinner |
+| 15:00 | 15:30 | | Break | Break | Excursion | |
+| 15:30 | 17:00 | | Report on breakout 1 | Report on breakout 3 | Excursion | |
+| 17:00 | 18:00 | | | | Excursion | |
+| 18:00 | 19:00 | | Dinner | Dinner | Dinner | |
+| 19:00 | 19:30 | Reception | Dinner | Dinner | Dinner | |
 | 19:30 | 21:00 | Reception | | | | |
 
 * Breakout 1: Challenges 1
