@@ -37,11 +37,13 @@ A tangible outcome of the Shonan meeting will be a manuscript that describes the
 | 19:00 | 19:30 | Reception | Dinner | Dinner | Dinner | |
 | 19:30 | 21:00 | Reception | | | | |
 
-* Breakout 1 Theme: Challenges
-* Breakout 2 Theme: Challenges
-* Breakout 3 Theme: Solutions
-* Breakout 4 Theme: Solutions
-* Breakout 5 Theme: Roadmap
+### Themes for Breakout Sessions
+
+* Breakout 1: Challenges
+* Breakout 2: Challenges
+* Breakout 3: Solutions
+* Breakout 4: Solutions
+* Breakout 5: Roadmap
 
 ## Organizers
 - [Shane McIntosh](http://rebels.ece.mcgill.ca/) (McGill University, Canada)
