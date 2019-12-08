@@ -58,7 +58,6 @@ A tangible outcome of the Shonan meeting will be a manuscript that describes the
 - Cuiyun Gao (Nanyang Technology University, Singapore)
 - Daniel M. German (University of Victoria, Canada)
 - Michael W. Godfrey (University of Waterloo, Canada)
-- Alessandra Gorla (IMDEA Software Institute, Spain)
 - [Julian Harty](https://github.com/julianharty) (Commercetest Limited/Open University, UK)
 - Toshiki Hirao (Nara Institute of Science and Technology, Japan)
 - Masanari Kondo (Kyoto Institute of Technology, Japan)
@@ -73,5 +72,4 @@ A tangible outcome of the Shonan meeting will be a manuscript that describes the
 - Carmine Vassallo (University of Zurich, Switzerland)
 - Takuya Watanabe (NTT Secure Platform Laboratories/Waseda University, Japan)
 - Lili Wei (The Hong Kong University of Science and Technology, China)
-- Yijun Yu (Open University, UK)
 - Thomas Zimmermann (Microsoft Research, USA)
