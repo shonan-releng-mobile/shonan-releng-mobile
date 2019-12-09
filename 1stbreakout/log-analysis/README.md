@@ -11,7 +11,7 @@ This document discusses:
 
 Our focus is on logging in the apps (the front-end) unless otherwise indicated.
 
-Empirical studies in log engineering:
+## Empirical studies in log engineering:
 
 - Why is logging used? Why do mobile devs log? Which logging libraries are used in mobile apps?
   - [https://users.encs.concordia.ca/~shang/pubs/Zeng2019\_Article\_StudyingTheCharacteristicsOfLo.pdf](https://users.encs.concordia.ca/~shang/pubs/Zeng2019_Article_StudyingTheCharacteristicsOfLo.pdf)
@@ -21,7 +21,7 @@ Empirical studies in log engineering:
 - Why do developers (even) use logs in apps where they cannot read the logs
 - Are logs being used for performance monitoring?
 
-Techniques to be studied and developed:
+## Techniques to be studied and developed:
 
 - How much existing techniques should be changed/evolved for mobile apps? Do we need to devise specific tools for mobile?
   - Log analysis research currently focus on Anomaly detection, Security and Privacy, Root cause analysis, Failure prediction, Software testing, Model inference and invariant mining, Reliability and dependability
@@ -38,7 +38,7 @@ Techniques to be studied and developed:
 - Can we introduce dynamic logging? I.e., logging only when it&#39;s really needed. Saves energy, bandwidth.
   - Can we send a remote command to start logging that area? i.e., only log when it&#39;s needed? Remember that you can&#39;t deploy your app every second, so dynamically activating logs might be a specific problem of mobile apps.
 
-Overall concerns:
+## Overall concerns:
 
 - Avoid privacy leaks
   - Facebook ad library bug where the facebook token was written to the log, other apps can read
@@ -50,12 +50,12 @@ Overall concerns:
 - Who is responsible to make sure that the log frameworks are good-faith actors who do not have backdoors in the logging.
 - How much of the localization of log lines impact the tools and techniques?
 
-Research challenges:
+## Research challenges:
 
 - We need log datasets from mobile applications
   - LogPai benchmark: [https://github.com/logpai](https://github.com/logpai), but it does not consider mobile apps.
 
-Existing tools:
+## Existing tools:
 
 Note: [ISNIT0](https://github.com/ISNIT0) is Joseph Reeve&#39;s github account. Joe works with [Julian Harty](https://github.com/julianharty) on creating code to help research logging, mobile analytics.
 
@@ -65,6 +65,6 @@ Note: [ISNIT0](https://github.com/ISNIT0) is Joseph Reeve&#39;s github account. 
 - [https://github.com/ISNIT0/log-searcher](https://github.com/ISNIT0/log-searcher) A tool for searching Android codebases and analysing usage of &quot;Log.\*&quot;
 - [https://github.com/ISNIT0/log-complexity-comparison](https://github.com/ISNIT0/log-complexity-comparison) This tool helps find complex code that does not have much logging to back it up. It was originally built to help with research done by Julian Harty and Joseph Reeve on logging placement. The output is a JSON file and an HTML report, describing which files need more logging attention.
 
-Logging by the Operating System
+## Logging by the Operating System
 
 Google Android includes logging at the device level. Users have the option to opt-in/out to automatically provide usage and diagnostics data to Google [Play]. This logging includes usage, crashes, ANRs and performance issues.
