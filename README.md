@@ -37,9 +37,9 @@ A tangible outcome of the Shonan meeting will be a manuscript that describes the
 | 19:00 | 19:30 | Reception | Dinner | Dinner | Dinner | |
 | 19:30 | 21:00 | Reception | | | | |
 
-### Themes for Breakout Sessions
+### Breakout Sessions
 
-* Breakout 1: Challenges
+* [Breakout 1](../blob/master/1stbreakout/README.md)
 * Breakout 2: Challenges
 * Breakout 3: Solutions
 * Breakout 4: Solutions
