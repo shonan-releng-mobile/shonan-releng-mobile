@@ -1,9 +1,9 @@
 # Breakout Session #1
 
-[Artefacts for Release Engineering of Mobile Apps](../../blob/master/1stbreakout/artefacts/README.md)
+[Artefacts for Release Engineering of Mobile Apps](../../master/1stbreakout/artefacts/README.md)
 
-[Overcoming Fragmentation for Deployment](../../blob/master/1stbreakout/fragmentation-deployment/README.md)
+[Overcoming Fragmentation for Deployment](../../master/1stbreakout/fragmentation-deployment/README.md)
 
-[Human Aspects of Release Engineering/Mobile Apps](../../blob/master/1stbreakout/human-aspects/README.md)
+[Human Aspects of Release Engineering/Mobile Apps](../../master/1stbreakout/human-aspects/README.md)
 
-[Log File Analysis for Mobile Apps](../../blob/master/1stbreakout/log-analysis/README.md)
+[Log File Analysis for Mobile Apps](../../master/1stbreakout/log-analysis/README.md)
