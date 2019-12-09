@@ -1,4 +1,4 @@
-# Log File Analysis for Mobile Apps
+# Log Analysis for Mobile Apps
 
 This document discusses:
 
