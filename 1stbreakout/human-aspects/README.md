@@ -8,3 +8,5 @@ Q1: How do users accept releases (1st release for new users and later for retain
 Q2: How do developers positively and negatively change the users' behaviors.
 
 Q3: How do app store / ecosystems allow dev/users to accept releases?
+
+![human-aspect](https://github.com/shonan-releng-mobile/shonan-releng-mobile/blob/master/1stbreakout/human-aspects/2.jpg)
