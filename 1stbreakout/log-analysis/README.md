@@ -76,6 +76,6 @@ Google Android includes logging at the device level. Users have the option to op
 
 - Meiyappan Nagappan
 - [Julian Harty](https://github.com/julianharty)
-- Maurício Aniche
+- [Maurício Aniche](https://www.mauricioaniche.com)
 - Luca Pascarella
 - Weiyi Shang
