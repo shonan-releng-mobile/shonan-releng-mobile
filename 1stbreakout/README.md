@@ -6,4 +6,4 @@
 
 [Human Aspects of Release Engineering/Mobile Apps](../../master/1stbreakout/human-aspects/README.md)
 
-[Log File Analysis for Mobile Apps](../../master/1stbreakout/log-analysis/README.md)
+[Log Analysis for Mobile Apps](../../master/1stbreakout/log-analysis/README.md)
