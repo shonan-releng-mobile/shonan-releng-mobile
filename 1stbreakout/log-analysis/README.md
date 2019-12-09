@@ -1,4 +1,3 @@
-#
 # Log File Analysis for Mobile Apps
 
 This document discusses:
