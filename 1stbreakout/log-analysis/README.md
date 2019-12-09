@@ -18,7 +18,8 @@ Our focus is on logging in the apps (the front-end) unless otherwise indicated.
   - Signal-to-noise levels in the log messages?
   - How to determine the frequency of the logs being delivered back to the developers.
 - Why do developers (even) use logs in apps where they cannot read the logs
-- Are logs being used for performance monitoring?
+- What do mobile developers use logs for?
+  - e.g., Are logs being used for performance monitoring?
 
 ## Techniques to be studied and developed:
 
