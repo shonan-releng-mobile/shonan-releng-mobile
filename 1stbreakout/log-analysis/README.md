@@ -36,7 +36,8 @@ Our focus is on logging in the apps (the front-end) unless otherwise indicated.
 - How do deal with the inconsistencies and the ever evolving log code base?
   - Robust Log-Based Anomaly Detection on Unstable Log Data. Xu Zhang, Yong Xu, Qingwei Lin, Bo Qiao, Hongyu Zhang, Yingnong Dang, Chunyu Xie, Xinsheng Yang, Qian Cheng, Ze Li, Junjie Chen, Xiaoting He, Randolph Yao, Jian-Guang Lou, Murali Chintalapati, Furao Shen, and Dongmei Zhang
 - Can we introduce dynamic logging? I.e., logging only when it&#39;s really needed. Saves energy, bandwidth.
-  - Can we send a remote command to start logging that area? i.e., only log when it&#39;s needed? Remember that you can&#39;t deploy your app every second, so dynamically activating logs might be a specific problem of mobile apps.
+  - Can we send a remote command to start logging that area? i.e., only log when it&#39;s needed? Remember that you can't deploy your app every second, so dynamically activating logs might be a specific problem of mobile apps.
+- Security of the logs: before shipping the logs to the cloud, maybe any app can access those logs. How to store them in a secure way?
 
 ## Overall concerns:
 
