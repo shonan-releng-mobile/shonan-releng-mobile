@@ -31,11 +31,11 @@ The problems discussed are not specific to mobile app stores, rather than to gen
 
 | RelEng Phase                 | Artifacts |
 | ------------------------     | -------------------- |
-| **Requirements Engineering** | social media        |
+| **Requirements Engineering** | social media, user reviews        |
 | Integration                  | Open Source App Stores (e.g., F-Droid)  |
 | Build + Test                 | Git, CI Providers |
 | Deployment                   | app lineage |
-| **Monitoring + Reaction**    | logs, social media   |
+| **Monitoring + Reaction**    | logs, social media, user reviews   |
 
 
 The bold phases are the ones that can benefit most from the use of social media.
