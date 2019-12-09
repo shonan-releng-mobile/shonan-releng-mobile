@@ -2,7 +2,12 @@
 
 ## Definitions
 
-Pull-deployment model: A pull request is generated when the app is submitted to the App Store. The App store can refuse/accept it as well as the user.
+A web app:
+```
+Build -> Deploy -> Release
+```
+
+Pull-deployment model (in case of mobile apps): A pull request is generated when the app is submitted to the App Store. The App store can refuse/accept it as well as the user.
 
 ```
   Controlled by the dev
@@ -12,9 +17,6 @@ Pull-deployment model: A pull request is generated when the app is submitted to 
 |                           |
 +---------------------------+
 ```
-
-A web app:
-Build -> Deploy -> Release
 
 Frontend & Backend versioning
 
