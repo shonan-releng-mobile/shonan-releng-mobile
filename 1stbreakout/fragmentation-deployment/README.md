@@ -2,27 +2,25 @@
 
 ## Definitions
 
-Pull-deployment model
+Pull-deployment model: A pull request is generated when the app is submitted to the App Store. The App store can refuse/accept it as well as the user.
+
+```
+  Controlled by the dev
++---------------------------+
+| Build -> Deploy          -|-> App Store -> Release (The user may not accept the new release)
+|      \-> Backend release  |
+|                           |
++---------------------------+
+```
+
+A web app:
+Build -> Deploy -> Release
 
 Frontend & Backend versioning
 
 App Reviews vs. Release logs
 
 Fragmentation
-
-A web app:
-Build -> Deploy -> Release
-
-A mobile app:
-
-```
-  Controlled by the dev
-+---------------------------+
-| Build -> Deploy          -|-> App Store (The pull request happens here) -> Release (The user may not accept the new release)
-|      \-> Backend release  |
-|                           |
-+---------------------------+
-```
 
 ## Challenges
 
@@ -33,7 +31,7 @@ Tracebility of app reviews to an app version (and therefore to a changelog)
 
 Tracebility between user and developer artifacts
 
-Can't force users to update
+Can not force users to update
 
 Support legacy software
 
