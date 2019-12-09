@@ -9,7 +9,7 @@ So, we hypothesize that users can change release engineering, and release engine
 ![human-aspect](https://github.com/shonan-releng-mobile/shonan-releng-mobile/blob/master/1stbreakout/human-aspects/2.jpg)
 
 
-Q1: How do users accept releases (1st release for new users and later for existing users)? is it based on automatically updates?
+Q1: How do users accept releases (1st release for new users and later for existing users)? is it based on automatically updates? 
 
 Q2: How do developers positively and negatively change the users' behaviors.
 
@@ -19,7 +19,7 @@ Implications/Benefits: win-win strategies for both users and developers + anti-p
 
 Other questions:
 
-- Why mobile apps do not use issue tracking systems?
+- Why mobile apps do not use issue tracking systems? Why do App stores do not provide ITSs for users?
 
 - Do developers care about bugs?
 
