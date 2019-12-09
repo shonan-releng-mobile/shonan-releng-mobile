@@ -33,3 +33,16 @@ Other questions:
 
 - Do users from different app stores have different expectation/behaviors?
 
+
+# Participants
+
+- Tom Zimmermann
+- Daniel German
+- Mike Godfrey
+- Fabio Palomba
+- Pick Thongtanunam
+- Kla Tantithamthavorn
+- Toshiki Hirao
+- Afnan
+- Masanari Kondo
+
