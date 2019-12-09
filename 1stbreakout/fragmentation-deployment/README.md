@@ -26,6 +26,7 @@ A mobile app:
 
 ## Challenges
 
+### For devs
 Misaligment on Frontend & Backend
 
 Tracebility of app reviews to an app version (and therefore to a changelog)
@@ -35,6 +36,9 @@ Tracebility between user and developer artifacts
 Can't force users to update
 
 Support legacy software
+
+### For researchers
+Lack of data for studies. In particular backend information
 
 ## Research directions
 
