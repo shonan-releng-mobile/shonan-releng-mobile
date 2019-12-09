@@ -68,3 +68,11 @@ Note: [ISNIT0](https://github.com/ISNIT0) is Joseph Reeve&#39;s github account. 
 ## Logging by the Operating System
 
 Google Android includes logging at the device level. Users have the option to opt-in/out to automatically provide usage and diagnostics data to Google [Play]. This logging includes usage, crashes, ANRs and performance issues.
+
+## Authors
+
+- Meiyappan Nagappan
+- Julian Harty
+- Maurício Aniche
+- Luca Pascarella
+- Weiyi Shang
