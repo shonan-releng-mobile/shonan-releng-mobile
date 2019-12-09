@@ -2,12 +2,12 @@
 
 ## Definitions
 
-A web app:
+Push-based deployment model (in case of a web app):
 ```
 Build -> Deploy -> Release
 ```
 
-Pull-deployment model (in case of mobile apps): A pull request is generated when the app is submitted to the App Store. The App store can refuse/accept it as well as the user.
+Pull-based deployment model (in case of mobile apps): A pull request is generated when the app is submitted to the App Store. The App store can refuse/accept it as well as the user.
 
 ```
   Controlled by the dev
