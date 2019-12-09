@@ -15,12 +15,14 @@ Build -> Deploy -> Release
 
 A mobile app:
 
+```
   Controlled by the dev
 +---------------------------+
 | Build -> Deploy          -|-> App Store (The pull request happens here) -> Release (The user may not accept the new release)
 |      \-> Backend release  |
 |                           |
 +---------------------------+
+```
 
 ## Challenges
 
