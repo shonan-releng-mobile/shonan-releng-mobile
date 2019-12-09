@@ -35,5 +35,11 @@ https://docs.google.com/document/d/1d4Xmv-Mql25whIYZRCckuz6S0kw4CKTk-2CFZGgZVKY/
 | Deployment                   | app lineage |
 | **Monitoring + Reaction**    | logs, social media   |
 
+
 The bold phases are the ones that can benefit most from the use of social media.
 We can use posts as indicators of the release process or to mine new requirements.
+
+The other phases are a *black box* for commercial apps. It is hard to study these,
+because we lack access to reliable sources.
+
+In general, several research challenges have to be solved, like how to automatically map social media posts and apps.
