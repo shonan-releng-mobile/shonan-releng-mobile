@@ -4,9 +4,9 @@ This document discusses:
 
 - Empirical studies in log engineering that we should do
 - (Existing) techniques we need to study and develop
-- Overall concerns in mobile logging
 - Challenges faced by researchers in mobile log research
 - Existing tools/codebases to support researchers
+- Overall concerns in mobile logging
 
 Our focus is on logging in the apps (the front-end) unless otherwise indicated.
 
