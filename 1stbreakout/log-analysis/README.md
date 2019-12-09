@@ -54,6 +54,8 @@ Our focus is on logging in the apps (the front-end) unless otherwise indicated.
 
 - We need log datasets from mobile applications
   - LogPai benchmark: [https://github.com/logpai](https://github.com/logpai), but it does not consider mobile apps.
+- Representative datasets of mobile apps source code
+  - FDroid might be not that representative...
 
 ## Existing tools:
 
