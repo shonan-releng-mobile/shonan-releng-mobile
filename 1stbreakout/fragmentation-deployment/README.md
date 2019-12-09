@@ -7,7 +7,7 @@ Pull-deployment model: A pull request is generated when the app is submitted to 
 ```
   Controlled by the dev
 +---------------------------+
-| Build -> Deploy          -|-> App Store -> Release (The user may not accept the new release)
+| Build -> Deploy          -|-> App Store -> Release 
 |      \-> Backend release  |
 |                           |
 +---------------------------+
