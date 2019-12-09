@@ -10,19 +10,19 @@ https://docs.google.com/document/d/1d4Xmv-Mql25whIYZRCckuz6S0kw4CKTk-2CFZGgZVKY/
 
 ## Different Sources:
 
-User facing:
-	social media (reddit, blogs, twitter, FB, forums)
-Developer facing
-  app stores
-    Apple, Google, Steam (commercial)
-    F-Droid (probably not representative), Linux Package Managers ... (open source)
-	app releases (app lineage)
-	commit history
-	StackOverflow Discussion
-	Android Framework Evolution
-In between:
-	Logs
-	Crash Reports
+- User facing:
+	- social media (reddit, blogs, twitter, FB, forums)
+- Developer facing
+	- app stores
+    	- Apple, Google, Steam (commercial)
+    	- F-Droid (probably not representative), Linux Package Managers ... (open source)
+	- app releases (app lineage)
+	- commit history
+	- StackOverflow Discussion
+	- Android Framework Evolution
+- In between:
+	- Logs
+	- Crash Reports
 	
 	
 ## Pipeline
