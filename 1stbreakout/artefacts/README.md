@@ -6,7 +6,7 @@ https://docs.google.com/document/d/1d4Xmv-Mql25whIYZRCckuz6S0kw4CKTk-2CFZGgZVKY/
 
 ![Overview](artefacts.png)
 
-## Discusion Focus
+## Discussion Focus
 
 The problems discussed are not specific to mobile app stores, rather than to generic centralized app stores (like Steam Game Platform, MS Windows Appstore, etc.). We think that, to draw the line between an *App Store* and a regular package manager is the ability of users to review and rate the individual store elements.
 
