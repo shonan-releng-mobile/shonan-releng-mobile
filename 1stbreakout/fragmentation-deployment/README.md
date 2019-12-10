@@ -1,7 +1,7 @@
 # Overcoming Fragmentation for Deployment
 
 ## Members
-Mauricio, Keheliya, Raula, Lili, Daniel D
+Carmine, Keheliya, Raula, Lili, Daniel D, Lili
 
 ## Definitions
 
