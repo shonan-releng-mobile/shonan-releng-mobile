@@ -1,4 +1,4 @@
-# Quality Assurance for Release Pipelines/Mobile
+# Quality Assurance for Mobile Apps
 
 ## How does industry define QA?
 
