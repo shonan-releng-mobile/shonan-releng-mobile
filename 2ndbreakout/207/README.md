@@ -31,13 +31,13 @@ What do researchers need to explore, in order to clarify the
 similarities/differences among mobile release engineering vs
 non-mobile release engineering:
 
-One dimension:
+* In one dimension:
+	* Package manager
+	* App store (mobile)
+	* App store (non mobile, e.g., Steam)
+* In another dimension:
 	* Stakeholders (users and devs)
 	* Pipeline (control gatekeeper, speed, frequency)
 	* Feedback (issue tracking)
 	* Economics (revenue/models, market share, exclusivity)
 
-Another dimension:
-	* Package manager
-	* App store (mobile)
-	* App store (non mobile, e.g., Steam)
