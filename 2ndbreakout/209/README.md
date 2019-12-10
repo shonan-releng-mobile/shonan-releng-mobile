@@ -1,6 +1,6 @@
 # What Makes Mobile Special for Releng?
 
-## Difference between App Store and Package Manager
+## Differences between App Store and Package Manager
 
 We analyzed the main differences between those two providers. In case of App store the focus is on releasing application for general users, while the package manager focuses on releasing libraries for a limited audience (e.g., CS users).
 
@@ -17,7 +17,7 @@ During our discussion we realized that app stores are conceptually an extension 
 
 This motivates the need for addressing the following challenges in release engineering for mobile apps.
 
-## Challenge for Mobile-app release engineering
+## Challenges for Mobile-app release engineering
 
 - Design testing strategies for non-functional requirements. Especially in case of small companies, testing for accessibility, usability, and energy consumption might be challenging.
 - Setting-up the testing infrastructure is more difficult to the fragmentation
