@@ -1,6 +1,6 @@
 # Quality Assurance for Release Pipelines/Mobile
 
-## How do industry define QA?
+## How does industry define QA?
 
 * Check: basically static analysis
 * Testing: more like exercising the app
