@@ -29,7 +29,7 @@
 1. Code reviews
 1. User reviews
 1. Automated testing
-
+1. (to be continued)
 
 ## Static analysis for mobile apps:
 
