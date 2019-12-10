@@ -45,6 +45,7 @@ Our focus is on logging in the apps (the front-end) unless otherwise indicated.
   - Facebook ad library bug where the facebook token was written to the log, other apps can read
   - GDPR in EU.
     - Who is liable to check if the logging/log files in the apps are compliant?
+    - If you use your 'own logging library to collect data', do you have to ask permission for the user? (Note that for logs you get in the app store, directly from Google, you don't need, as Google already asked for it)
   - As a user, do you know what&#39;s being logged about you?
 - Size of the applications. Mobile apps are often smaller than enterprise traditional projects. Mobile apps focus on single tasks
 - Is scalability as big of an issue as in other domains, e.g., enterprise applications?
