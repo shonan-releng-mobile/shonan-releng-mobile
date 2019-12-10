@@ -31,7 +31,7 @@ Then we narrow down on two dimensions on release engineering challenges for mobi
 * Fragemented by different OSes, hardware, testing challenges (runtime)
 * Variants in devices
 * Testing for low bandwidth / limited hard ware
-* ** But main challenge is as researchers we don't really know what's happening here. (we don't have access to this information) **
+* **But main challenge: As researchers, we don't really know what's happening here. (we don't have access to this information)**
 
 
 
