@@ -5,7 +5,7 @@ Afnan, Mauricio, Mike, Julian, Toshiki, Raula, Sebastian, Pick, Yasu
 ## History
 The mobile developer's guide to the galaxy charts the history of developing mobile apps. The 18th edition is currently online at https://www.open-xchange.com/resources/mobile-developers-guide-to-the-galaxy/
 
-TODO: (add the picture here)
+![alt text](https://raw.githubusercontent.com/shonan-releng-mobile/shonan-releng-mobile/master/2ndbreakout/207/20191210_132632_convergence_with_mobile.jpg)
 
 ## Discussion 
 
