@@ -82,7 +82,7 @@ Open questions/challenges:
 * Tools exist for UI testing, such as Facebook's one
 	* Monkey testing is still the best (by Alex Orso)
 
-* From a theoretical point of view:
+* From a pragmatic point of view:
 	* Apps are made of a lot of UI code, which is hard to unit test.
 	* When to do unit testing or when to do system tests for Android?
 	* Mocking is a way, but in a UI-heavy application, do we want to mock the UI?
