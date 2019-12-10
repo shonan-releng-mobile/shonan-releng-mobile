@@ -91,3 +91,4 @@ Open questions/challenges:
 ## Big questions
 
 * Should we help the 'big app developers' or the 'small app developer' (who are a huge part of the market)?
+* Can we learn the best QA practices from the data/developers we have available?
