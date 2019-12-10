@@ -16,7 +16,7 @@
 
 * Number of bugs, as it was always done?
 * Can we use *user rating* or *satisfaction* as quality attribute?
-	* Is that we should care more about? 
+	* Is that what we should care more about?
 	* Why similar apps have higher ratings than others?
 	* What do an app need to be successful? What does it mean 'to be succesful'?
 * Performance
