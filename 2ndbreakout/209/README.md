@@ -27,6 +27,7 @@ This motivates the need for addressing the following challenges in release engin
 - Traceability bugs <-> bad reviews.
 
 # Authors
+Mei, Daniel, Carmine, Luca, Kla, Masa, Fabio, Lili, Cuiyun
 
 # More
 
