@@ -40,7 +40,7 @@ A tangible outcome of the Shonan meeting will be a manuscript that describes the
 ### Breakout Sessions
 
 * [Breakout 1](../master/1stbreakout/README.md)
-* Breakout 2: Challenges
+* [Definitions](../master/2ndbreakout/README.md)
 * Breakout 3: Solutions
 * Breakout 4: Solutions
 * Breakout 5: Roadmap
