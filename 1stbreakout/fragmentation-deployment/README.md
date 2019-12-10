@@ -12,14 +12,7 @@ Build -> Deploy -> Release
 
 Pull-based deployment model (in case of mobile apps): A pull request is generated when the app is submitted to the App Store. The App store can refuse/accept it as well as the user.
 
-```
-  Controlled by the dev
-+---------------------------+
-| Build -> Deploy          -|-> App Store -> Release 
-|      \-> Backend release  |
-|                           |
-+---------------------------+
-```
+![Overview](block-diagram.png)
 
 Frontend & Backend versioning
 
