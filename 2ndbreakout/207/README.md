@@ -14,6 +14,7 @@ TODO: (add the picture here)
 	* Have the stakeholders changed?
 	* What is mobile?
 		* Is it something with limited hardware, or bandwidth?
+		* Or is a laptop a mobile device?
 
 * Clear challenges:
 	* Gate keeper
