@@ -28,9 +28,9 @@ Then we narrow down on two dimensions on release engineering challenges for mobi
 ## Pre-approval challenges
 
 * Development is done in a different machine from the one it's deployed
-* Fragemented by different OSes, hardware, testing challenges (runtime)
+* Fragmented by different OSes, hardware, testing challenges (runtime)
 * Variants in devices
-* Testing for low bandwidth / limited hard ware
+* Testing for low bandwidth / limited hardware
 * **But main challenge: As researchers, we don't really know what's happening here. (we don't have access to this information)**
 
 
