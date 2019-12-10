@@ -92,3 +92,4 @@ Open questions/challenges:
 
 * Should we help the 'big app developers' or the 'small app developer' (who are a huge part of the market)?
 * Can we learn the best QA practices from the data/developers we have available?
+* Given limited resources, what type of tests should we do?
