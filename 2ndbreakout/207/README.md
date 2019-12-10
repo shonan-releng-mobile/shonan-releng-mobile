@@ -41,3 +41,6 @@ non-mobile release engineering:
 	* Feedback (issue tracking)
 	* Economics (revenue/models, market share, exclusivity)
 
+## Raw pictures of our discussion
+
+TODO: upload them here
