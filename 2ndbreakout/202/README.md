@@ -33,5 +33,4 @@ Then we narrow down on two dimensions on release engineering challenges for mobi
 * Testing for low bandwidth / limited hardware
 * **But main challenge: As researchers, we don't really know what's happening here. (we don't have access to this information)**
 
-
-
+**Team Members:** Daniel M. German, Shane McIntosh, Thomas Zimmermann, Li Li, Keheliya Gallaba
