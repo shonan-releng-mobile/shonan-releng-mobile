@@ -1,5 +1,8 @@
 # Overcoming Fragmentation for Deployment
 
+## Members
+Mauricio, Keheliya, Raula, Lili, Daniel D
+
 ## Definitions
 
 Push-based deployment model (in case of a web app):
@@ -9,7 +12,14 @@ Build -> Deploy -> Release
 
 Pull-based deployment model (in case of mobile apps): A pull request is generated when the app is submitted to the App Store. The App store can refuse/accept it as well as the user.
 
-![Overview](block-diagram.png)
+```
+  Controlled by the dev
++---------------------------+
+| Build -> Deploy          -|-> App Store -> Release 
+|      \-> Backend release  |
+|                           |
++---------------------------+
+```
 
 Frontend & Backend versioning
 
@@ -42,3 +52,4 @@ Factors that drive changes and updates to the users
   
 Usage of network logs for aproximating the backend behaviour
 Compare the behaviour of the webapp to the frontend against the same backend
+
