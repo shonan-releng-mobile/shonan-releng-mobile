@@ -87,6 +87,8 @@ Open questions/challenges:
 	* When to do unit testing or when to do system tests for Android?
 	* Mocking is a way, but in a UI-heavy application, do we want to mock the UI?
 	* RQ: What kind of tests do developers really **do** in practice? What kind of tests they really **need** in practice?
+	
+* Can we do (automatic) crash reproduction? 
 
 ## Big questions
 
