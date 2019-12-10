@@ -89,6 +89,7 @@ Open questions/challenges:
 	* RQ: What kind of tests do developers really **do** in practice? What kind of tests they really **need** in practice?
 	
 * Can we do (automatic) crash reproduction? 
+	* Julian: We would be ok if the reproduced crash is not an end-to-end. If it's a "unit test" (one, two, three classes), that'd be already useful for the developer to start working on the issue. 
 
 ## Big questions
 
