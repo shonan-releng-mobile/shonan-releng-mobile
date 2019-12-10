@@ -4,3 +4,39 @@ Afnan, Mauricio, Mike, Julian, Toshiki, Raula, Sebastian, Pick, Yasu
 
 ## History
 The mobile developer's guide to the galaxy charts the history of developing mobile apps. The 18th edition is currently online at https://www.open-xchange.com/resources/mobile-developers-guide-to-the-galaxy/
+
+TODO: (add the picture here)
+
+## Discussion 
+
+* Many open questions:
+	* Do developers have different technical concerns?
+	* Have the stakeholders changed?
+	* What is mobile?
+		* Is it something with limited hardware, or bandwidth?
+
+* Clear challenges:
+	* Gate keeper
+	* Deployment
+	* Feedback
+
+* The future is the convergence!
+	* Desktops will adopt a lot of the ideas from the mobile world
+	* The differences will get smaller and smalle
+
+## Next steps
+
+What do researchers need to explore, in order to clarify the
+similarities/differences among mobile release engineering vs
+non-mobile release engineering:
+
+One dimension:
+	* Stakeholders (users and devs)
+	* Pipeline (control gatekeeper, speed, frequency)
+	* Feedback (issue tracking)
+	* Economics (revenue/models, market share, exclusivity)
+
+Another dimension:
+	* Package manager
+	* App store (mobile)
+	* App store (non mobile, e.g., Steam)
