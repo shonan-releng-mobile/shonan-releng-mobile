@@ -54,7 +54,7 @@ A tangible outcome of the Shonan meeting will be a manuscript that describes the
 - Afnan Al-Subaihin (King Saud University, Saudi Arabia)
 - Mauricio Aniche (Delft University of Technology, Netherlands)
 - Daniel Dominguez (IMDEA Software Institute, Spain)
-- Keheliya Gallaba (McGill University, Canada)
+- [Keheliya Gallaba](https://keheliya.github.io) (McGill University, Canada)
 - Cuiyun Gao (Nanyang Technology University, Singapore)
 - Daniel M. German (University of Victoria, Canada)
 - [Mike Godfrey](https://plg.uwaterloo.ca/~migod) (University of Waterloo, Canada)
