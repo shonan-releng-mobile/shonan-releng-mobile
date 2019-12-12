@@ -33,7 +33,8 @@ Methodology:
 Internal logging: the log "stays only in the device". _Note: Internal logging can be in-memory or in a place where other apps can see_
 External logging: the log goes to some external cloud service.
 
-* Study when developers started to use these external logging providers and why.
+* Study when developers started to use these external logging providers and why
+
 	* appbrain.com (former Googlers) might give us some insights on this
 	* Methodology: analysis of the code repository, looking for commits that introduced the logging
 
