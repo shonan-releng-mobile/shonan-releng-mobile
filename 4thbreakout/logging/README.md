@@ -58,7 +58,9 @@ Methodology:
 * Micro-benchmark the logging frameworks for mobile
 	* Understand the costs of the different logging operations, e.g., adding more information, line number, etc etc, what's the impact on performance, energy consumption, network usage?
 
+## A bigger holistic view
 
+How does this compare to enterprise and open-source logging strategies?
 
 ## Ethical implications
 
