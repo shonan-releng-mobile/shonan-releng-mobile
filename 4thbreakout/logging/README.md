@@ -24,6 +24,9 @@ Methodology:
 	* Advantages: "Logging in the wild", real-world data
 	* Disadvantages: we have less control about how people are using those apps.
 
+ * Timelines for adoption of logging libraries
+        * History of providers e.g. Flurry, Firebase, Fabric, ...
+	* "Market share" of logging libraries, which apps contain which libraries? See https://appbrain.com/ 
 
 ## G2: Explore the differences between internal log vs external log
 
