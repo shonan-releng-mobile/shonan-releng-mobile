@@ -23,6 +23,7 @@ Methodology:
 	* Observational study: We can create an app that (with the user permission) collects the logs of the applications they are using. We then analyse this data.
 	* Advantages: "Logging in the wild", real-world data
 	* Disadvantages: we have less control about how people are using those apps.
+	* Can we use mechanical turk for that?
 
 * Timelines for adoption of logging libraries
 	* History of providers e.g. Flurry, Firebase, Fabric, ...
@@ -37,7 +38,6 @@ Internal logging: the log "stays only in the device". _Note: Internal logging ca
 External logging: the log goes to some external cloud service.
 
 * Study when developers started to use these external logging providers and why
-
 	* appbrain.com (former Googlers) might give us some insights on this
 	* Methodology: analysis of the code repository, looking for commits that introduced the logging
 
