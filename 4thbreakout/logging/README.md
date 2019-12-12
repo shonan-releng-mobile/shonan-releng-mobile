@@ -27,6 +27,9 @@ Methodology:
 * Timelines for adoption of logging libraries
 	* History of providers e.g. Flurry, Firebase, Fabric, ...
 	* "Market share" of logging libraries, which apps contain which libraries? See https://appbrain.com/ 
+	
+* Reflected logging (using server logs to reflect behaviours of the app)
+	* For example, back-end server logs may provide information and effectively log usage of the app(s) that use these servers. Some usage may be user-initiated, others from code in the app e.g. to predictively download content.
 
 ## G2: Explore the differences between internal log vs external log
 
