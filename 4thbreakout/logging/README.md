@@ -46,8 +46,6 @@ Methodology:
 
 Methodology:
 
-We see two ways of doing it:
-
 * Use open-source projects and analyse their repositories and source code, looking for external logs.
 	* We have access to their source code, so we can fully analyze their logging code.
 
