@@ -56,6 +56,9 @@ We see two ways of doing it:
 	* Advantages: "Logging in the wild", real-world data
 	* Disadvantages: we have less control about how people are using those apps.
 
+## Ethical implications
+
+* If we are collecting logs of other apps, what are the privacy (as well as GDPR) concerns we have to take into account?
 
 ## Authors
 
