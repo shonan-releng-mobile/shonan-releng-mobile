@@ -60,6 +60,11 @@ Methodology:
 
 * If we are collecting logs of other apps, what are the privacy (as well as GDPR) concerns we have to take into account?
 
+## Related Work
+
+* Ian's EMSE paper 
+* the paper that Luca found on energy of logs
+
 ## Authors
 
 * Maurício Aniche
