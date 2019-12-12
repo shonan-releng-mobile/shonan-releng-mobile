@@ -6,9 +6,10 @@ We define three goals:
 1. Understand the performance impact of external logs
 1. Understand what "external logs" look like.
 
-## G1: Explore the differences between internal log (the log "stays only in the device") vs external log (the log goes to some external cloud service)
+## G1: Explore the differences between internal log vs external log
 
-_Note: Internal logging can be in-memory or in a place where other apps can see_
+Internal logging: the log "stays only in the device". _Note: Internal logging can be in-memory or in a place where other apps can see_
+External logging: the log goes to some external cloud service.
 
 * Study when developers started to use these external logging providers and why.
 	* appbrain.com (former Googlers) might give us some insights on this
