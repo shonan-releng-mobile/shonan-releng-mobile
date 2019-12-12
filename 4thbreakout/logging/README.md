@@ -65,6 +65,7 @@ Methodology:
 * Yi Zeng, Jinfu Chen, Weiyi Shang and Tse-Hsun Chen. Studying the Characteristics of Logging Practices in Mobile Apps: A Case Study on F-Droid. Empirical Software Engineering. 
 https://users.encs.concordia.ca/~shang/pubs/Zeng2019_Article_StudyingTheCharacteristicsOfLo.pdf
 * the paper that Luca found on energy of logs
+* Device Analyzer: usage of smartphones https://deviceanalyzer.cl.cam.ac.uk/ links to several papers.
 
 ## Authors
 
