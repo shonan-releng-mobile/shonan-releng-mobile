@@ -56,3 +56,11 @@ We see two ways of doing it:
 	* Disadvantages: we have less control about how people are using those apps.
 
 
+## Authors
+
+* Maurício Aniche
+* Julian Harty
+* Luca Pascarella
+* Lili Wei
+* Weiyi Shang
+
