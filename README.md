@@ -64,7 +64,7 @@ A tangible outcome of the Shonan meeting will be a manuscript that describes the
 - Raula Gaikovina Kula (NAIST, Japan)
 - Li Li (Monash University, Australia)
 - Fabio Palomba (University of Zurich, Switzerland)
-- Luca Pascarella (Delft University of Technology, Netherlands)
+- [Luca Pascarella](https://www.lucapascarella.com/) (Delft University of Technology, Netherlands)
 - Sebastian Proksch (University of Zurich, Switzerland)
 - Weiyi Shang (Concordia University, Canada)
 - Chakkrit (Kla) Tantithamthavorn (Monash University, Australia)
