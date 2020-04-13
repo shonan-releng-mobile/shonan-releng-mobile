@@ -6,7 +6,7 @@ Google Play Console is the interface Google provides primarily for developers of
 
 Each app belongs to an owner, who will have registered as a developer and paid a one-time fee. Owners can share aspects of their account with other people who have a Google account and who have accepted Google's terms and conditions, etc. The sharing can be granular and limited to a single app owned by a particular owner, the owner can also set the permissions that these other people will have for one or more apps they own. Individuals can have access to multiple accounts and distinct permissions for each app and/or account.
 
-## Release Management
+## Release Management
 
 ## Android Vitals
 
